@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 28, 2022, 9:45:44 PM
+    Author     : ALI
+*/
+
+.button{
+    -fx-background-radius: 22;
+}
+#btnInsert:hover
+{
+    -fx-background-color: green;
+}
+#btnUpdate:hover
+{
+    -fx-background-color: yellow;
+}
+#btnDelete:hover
+{
+    -fx-background-color: red;
+}
+
